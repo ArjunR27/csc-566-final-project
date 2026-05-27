@@ -1,0 +1,17 @@
+# Data — download locally using scripts/download_sample.sh
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
