@@ -8,6 +8,10 @@
     * to create a .venv run --> uv sync
     * Can install uv here: https://docs.astral.sh/uv/getting-started/installation/
 
+## Run ./scripts/download_sample.sh
+    * This will create the data/melspecs directory and download the melspectrograms from the MTG into this folder
+    * DOing this to keep repository clean and not crash github because the data could get large as we implement
+
 ## Repo Layout
     * data/
         * melspecs/ = Mel Spectrograms (.npy) files from the MTG dataset
