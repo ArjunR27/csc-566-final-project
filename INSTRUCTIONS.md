@@ -17,7 +17,7 @@
         * melspecs/ = Mel Spectrograms (.npy) files from the MTG dataset
 
     * metadata/
-        * autotagging_instrument.tsv = tags of which instrument for each mel spectrogram
+        * autotagging_instrument.tsv = tags of which instrument for each mel spectrogram (cross reference the numbers with the tags)
     
     * scripts/
         * download_sample.sh = shell script to download the mel spectrograms into the ./data/melspecs directory (currently downloads 00 and 01, there are more to download which we can use for implementation)
