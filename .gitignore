@@ -1,5 +1,5 @@
 # Data — download locally using scripts/download_sample.sh
-data/
+data/melspecs
 
 # Python
 __pycache__/
