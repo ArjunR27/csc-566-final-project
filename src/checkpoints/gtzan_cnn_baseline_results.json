@@ -1,0 +1,16 @@
+{
+  "test_accuracy": 0.9703147353361946,
+  "best_val_accuracy": 0.9703147353361946,
+  "num_train_segments": 11181,
+  "num_test_segments": 2796,
+  "num_epochs": 50,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "target_shape": [
+    150,
+    150
+  ],
+  "segment_length_sec": 4,
+  "overlap_sec": 2,
+  "sample_rate": 22050
+}
